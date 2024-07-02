@@ -296,3 +296,8 @@
             </div>
     </header>
 ```
+## OUTPUT:
+![alt text](<Screenshot (31).png>)
+![alt text](<Screenshot (32).png>)
+![alt text](<Screenshot (33).png>)
+![alt text](<Screenshot (34).png>)
